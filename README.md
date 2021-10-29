@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mrsavvy02
-- 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ... atharv123sontakke@gmail.com
 
 <!---
