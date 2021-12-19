@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrsavvy02
+- 👋 Hi, I’m Atharv Sontakke
 - 📫 How to reach me ... atharv123sontakke@gmail.com
 - 🤔 My portfolio ... https://myyy-portfolio.netlify.app/
 
